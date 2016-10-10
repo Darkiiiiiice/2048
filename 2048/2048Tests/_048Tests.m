@@ -2,7 +2,7 @@
 //  _048Tests.m
 //  2048Tests
 //
-//  Created by 嘉荣 张 on 2016/10/9.
+//  Created by Mario on 2016/10/9.
 //  Copyright © 2016年 Mario. All rights reserved.
 //
 
